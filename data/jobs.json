@@ -1,0 +1,252 @@
+[
+  {
+    "job_title": "Senior Machine Learning Engineer",
+    "company": "Jobs for Humanity",
+    "location": "New Haven, CT",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": 173350.0,
+    "skills": ["Machine Learning", "Python", "Scala", "Java", "Data Engineering", "Distributed Computing", "PyTorch", "Spark", "TensorFlow"]
+  },
+  {
+    "job_title": "Principal Software Engineer, ML Accelerators",
+    "company": "Aurora",
+    "location": "San Francisco, CA",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": 321000.0,
+    "skills": ["C++", "Python", "PyTorch", "TensorFlow", "CUDA", "Linux", "Deep Learning", "Computer Vision"]
+  },
+  {
+    "job_title": "Senior ETL Data Warehouse Specialist",
+    "company": "Adame Services LLC",
+    "location": "New York, NY",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Associate",
+    "salary_usd": null,
+    "skills": ["ETL", "Data Warehousing", "Business Intelligence", "Data Modeling", "SQL", "Informatica", "AWS Redshift", "Azure"]
+  },
+  {
+    "job_title": "Senior Data Warehouse Developer / Architect",
+    "company": "Morph Enterprise",
+    "location": "Harrisburg, PA",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": null,
+    "skills": ["Data Lakes", "Databricks", "Azure Data Factory", "Spark", "Python", "SQL Server", "Azure", "ETL"]
+  },
+  {
+    "job_title": "Lead Data Engineer",
+    "company": "Dice",
+    "location": "Plano, TX",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": null,
+    "skills": ["Java", "Scala", "Python", "NoSQL", "Redshift", "Snowflake", "AWS", "Kafka", "Spark"]
+  },
+  {
+    "job_title": "Senior Data Engineer",
+    "company": "University of Chicago",
+    "location": "Chicago, IL",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": null,
+    "skills": ["Data Warehouse", "ETL", "Oracle", "Hadoop", "Java", "Python", "R", "Tableau", "SQL", "Excel"]
+  },
+  {
+    "job_title": "Manager, Cyber Risk & Analysis (Machine Learning)",
+    "company": "Jobs for Humanity",
+    "location": "Boston, MA",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": 171500.0,
+    "skills": ["Machine Learning", "Generative AI", "Cloud Services", "Risk Management", "Cybersecurity"]
+  },
+  {
+    "job_title": "Senior Financial Data Analyst",
+    "company": "The Walt Disney Company",
+    "location": "Lake Buena Vista, FL",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": null,
+    "skills": ["Data Analysis", "Predictive Analysis", "Excel", "SAP", "Tableau", "SQL", "R", "Power BI"]
+  },
+  {
+    "job_title": "Machine Learning Infrastructure Engineer",
+    "company": "L&T Technology Services",
+    "location": "Sunnyvale, CA",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": null,
+    "skills": ["Machine Learning", "System Design", "DevOps", "Python", "C++", "Distributed Systems"]
+  },
+  {
+    "job_title": "Senior MLOps Engineer",
+    "company": "Recruiting from Scratch",
+    "location": "Atlanta, GA",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": 180000.0,
+    "skills": ["MLOps", "Data Engineering", "ETL Pipelines", "LLMs", "NLP", "Deep Learning"]
+  },
+  {
+    "job_title": "Data Engineer Manager",
+    "company": "Energy Jobline",
+    "location": "Wolverhampton, England, United Kingdom",
+    "country": "United Kingdom",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": null,
+    "skills": ["Data Engineering", "Data Analytics", "Data Warehousing", "ETL", "SQL", "Python", "Machine Learning", "Data Visualization"]
+  },
+  {
+    "job_title": "Data Analyst Part Time",
+    "company": "Toyandsons",
+    "location": "Waterloo, Ontario, Canada",
+    "country": "Canada",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": null,
+    "skills": ["Data Analysis", "Data Visualization", "Machine Learning", "SQL", "Python", "R", "Tableau", "Power BI"]
+  },
+  {
+    "job_title": "Staff Data Engineer, Fleet Analytics",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": 226000.0,
+    "skills": ["Data Analytics", "Data Engineering", "Data Science", "Machine Learning", "Python", "SQL", "Scala", "Spark", "Docker", "Kubernetes", "Pandas", "Airflow"]
+  },
+  {
+    "job_title": "Senior Data Engineer - Azure, Python, Scala, Spark",
+    "company": "Templeton and Partners - Tech Recruitment",
+    "location": "London, England, United Kingdom",
+    "country": "United Kingdom",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": null,
+    "skills": ["Azure", "Databricks", "Python", "SQL", "Scala", "Hadoop", "Spark", "Kafka", "Airflow"]
+  },
+  {
+    "job_title": "Senior Data Engineer, Public Company",
+    "company": "Recruiting from Scratch",
+    "location": "St Louis, MO",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": 187500.0,
+    "skills": ["Data Engineering", "Business Intelligence", "Data Science", "Python", "Snowflake", "Airflow", "Kubernetes", "Docker", "Spark", "PySpark", "SQL", "Kafka", "ETL"]
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Futran Solutions",
+    "location": "Dallas, TX",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": null,
+    "skills": ["Data Science", "Machine Learning", "Artificial Intelligence", "Data Analysis", "Data Visualization", "R", "Python", "PyTorch", "TensorFlow"]
+  },
+  {
+    "job_title": "Senior Data Analyst",
+    "company": "Huws Gray",
+    "location": "Awsworth, England, United Kingdom",
+    "country": "United Kingdom",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": null,
+    "skills": ["Data Analysis", "Reporting", "SQL", "Tableau", "Excel"]
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "RAND Corporation",
+    "location": "Washington, DC",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": 121900.0,
+    "skills": ["Data Management", "Statistical Analysis", "SAS", "R", "Data Science", "Large Language Models", "Biostatistics"]
+  },
+  {
+    "job_title": "Senior ML Engineer",
+    "company": "CyberCoders",
+    "location": "Santa Clara, CA",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": null,
+    "skills": ["Machine Learning", "Deep Learning", "Computer Vision", "Python", "C++", "Linux", "Git"]
+  },
+  {
+    "job_title": "Staff Data Scientist, Financial Strategy",
+    "company": "Stripe",
+    "location": "Seattle, WA",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": 264067.5,
+    "skills": ["Data Science", "Technical Leadership", "Forecasting Systems", "Experimental Design"]
+  },
+  {
+    "job_title": "Sr ML Engineering Manager, Firefly App Integrations",
+    "company": "Adobe",
+    "location": "San Jose, CA",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": 281100.0,
+    "skills": ["AI/ML", "PyTorch", "SageMaker", "HuggingFace", "Computer Vision", "Generative AI", "Model Serving"]
+  },
+  {
+    "job_title": "Senior Data Scientist",
+    "company": "Adobe",
+    "location": "San Francisco, CA",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": 261400.0,
+    "skills": ["Data Science", "Data Analytics", "Statistical Modeling", "Python", "SQL", "Spark", "Git", "AWS", "Azure", "Databricks", "Machine Learning", "A/B Testing"]
+  },
+  {
+    "job_title": "Data and Reporting Analyst",
+    "company": "Talent",
+    "location": "Melbourne, Victoria, Australia",
+    "country": "Australia",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": null,
+    "skills": ["SQL", "JavaScript", "Power BI", "Data Wrangling"]
+  },
+  {
+    "job_title": "Lead Data Scientist",
+    "company": "Snap Inc.",
+    "location": "Palo Alto, CA",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": 263833.33,
+    "skills": ["Data Science", "Machine Learning", "Python", "R", "TensorFlow", "PyTorch", "Spark ML", "Scikit-learn"]
+  },
+  {
+    "job_title": "Senior Staff Machine Learning Engineer",
+    "company": "Coupang",
+    "location": "Mountain View, CA",
+    "country": "United States",
+    "employment_type": "Onsite",
+    "experience_level": "Mid senior",
+    "salary_usd": 241500.0,
+    "skills": ["Machine Learning", "Data Science", "Statistics", "Big Data", "NoSQL", "AWS", "Python", "Scala", "R", "SQL", "Hadoop", "Spark", "Kubernetes", "Docker", "Tableau", "Power BI"]
+  }
+]
